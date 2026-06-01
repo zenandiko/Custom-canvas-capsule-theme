@@ -1,8 +1,8 @@
-# Canvas ES-DE Capsule Theme — Custom Edition
+# Canvas-Capsule Theme — Custom Edition
 
 A custom capsule image set primarily designed for [Console Launcher](https://play.google.com/store/apps/details?id=fr.spse.console_launcher) on Android, based on the original [Canvas theme by Siddy212](https://github.com/Siddy212/canvas-es-de).
 
-> ⚠️ **Compatibility note:** This set was built and tested on **Console Launcher**. It should also work on [Cocoon Launcher](https://play.google.com/store/apps/details?id=com.applaunch.consolelauncher) and [ES-DE](https://es-de.org/) since they share the same capsule naming convention, but this has not been fully verified yet. Feedback welcome!
+> ⚠️ **Compatibility note:** This set was built and tested on [**Console Launcher**](https://github.com/likeich/console-launcher). It should also work on [Cocoon Launcher](https://play.google.com/store/apps/details?id=com.applaunch.consolelauncher) and [ES-DE](https://es-de.org/) since they share the same capsule naming convention, but this has not been fully verified yet. Feedback welcome!
 
 ---
 
