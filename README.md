@@ -31,7 +31,8 @@ Every capsule uses **original artwork** sourced from official promotional flyers
 
 ## 🖼️ Preview
 
-> *(Screenshots coming soon)*
+<img width="1920" height="1080" alt="Screenshot_20260601-135003" src="https://github.com/user-attachments/assets/e33fb551-8a65-4708-8e27-d7f1fd26373d" /><img width="1920" height="1080" alt="Screenshot_20260601-134955" src="https://github.com/user-attachments/assets/025c7c00-6ac1-46f5-89e5-87972f84c8d3" />
+
 
 ---
 
