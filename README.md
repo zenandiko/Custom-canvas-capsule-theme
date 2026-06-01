@@ -22,9 +22,9 @@ Every capsule uses **original artwork** sourced from official promotional flyers
 - **200+ capsules** covering consoles, computers, handhelds, arcade boards, engines and custom collections
 - **Original artwork** from official promotional flyers, arcade marquees and box art
 - **New capsules** not present in the original Canvas theme:
-  - `gamenative` — Native Android games
-  - `ps5` — PlayStation 5
-  - `psremote` — PlayStation Remote Play
+  - `gamenative`
+  - `ps5`
+  - `psremote`
   - Multiple alternate artwork variants for popular systems (GBA, GBC, NES, SNES, PS1, PS2, N64, Wii, Wii U...)
 
 ---
@@ -32,15 +32,6 @@ Every capsule uses **original artwork** sourced from official promotional flyers
 ## 🖼️ Preview
 
 > *(Screenshots coming soon)*
-
----
-
-## 📦 Installation
-
-1. Download the latest release from the [Releases](../../releases) page
-2. Extract the contents
-3. Copy the capsule images to your ES-DE or Console Launcher theme folder
-4. Select the theme from the UI settings
 
 ---
 
