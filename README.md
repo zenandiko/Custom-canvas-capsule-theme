@@ -1,3 +1,5 @@
+<img width="800" height="265" alt="header" src="https://github.com/user-attachments/assets/7156a67f-6171-4fbb-834f-4d48e3770df8" />
+
 # Canvas-Capsule Theme — Custom Edition
 
 A custom capsule image set primarily designed for [Console Launcher](https://play.google.com/store/apps/details?id=fr.spse.console_launcher) on Android, based on the original [Canvas theme by Siddy212](https://github.com/Siddy212/canvas-es-de).
