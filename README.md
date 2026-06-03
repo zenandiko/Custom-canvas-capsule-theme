@@ -21,8 +21,7 @@ Every capsule uses **original artwork** sourced from official promotional flyers
 - **Two style variants:**
   - `Flat` — straight corners, clean and minimal
   - `Rounded` — rounded corners with drop shadow, softer and modern
-
-  <img width="769" height="390" alt="variants" src="https://github.com/user-attachments/assets/b28d625d-4007-42b6-97a6-a4b61113aa4b" />
+<img width="769" height="390" alt="variants" src="https://github.com/user-attachments/assets/b28d625d-4007-42b6-97a6-a4b61113aa4b" />
 
 - **200+ capsules** covering consoles, computers, handhelds, arcade boards, engines and custom collections
 - **Original artwork** from official promotional flyers, arcade marquees and box art
